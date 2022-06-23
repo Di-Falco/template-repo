@@ -1,8 +1,8 @@
-# (Application Name)
+# Template
 
-#### (Brief Description of Application)
+#### Empty template for future projects
 
-#### By (Your Name Here)
+#### By Anthony DiFalco
 
 ## Technologies Used
 
@@ -13,13 +13,16 @@
 
 ## Description
 
+
+
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* clone this repository using
+```git clone https://github.com/Di-Falco/template-repo```
+* run 
+```npm install```
+* update the title of the project, located on line 18 of webpack.config.js
+```18      title: 'TITLE',```
 
 ## Known Bugs
 
@@ -29,3 +32,6 @@
 ## License
 
 ## Contact Information
+
+Anthony DiFalco
+aodifalco@gmail.com
